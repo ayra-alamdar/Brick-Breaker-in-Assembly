@@ -18,4 +18,4 @@ Brick breaker is a classic arcade game that involves breaking bricks using a pad
 
 8. Testing and debugging: Testing and debugging are essential steps in the game development process. The game must be tested on different platforms to ensure compatibility and performance. Bugs and glitches must be identified and fixed to ensure a smooth gaming experience
 
-Contributor Naima Zafar
+Contributor Naima Zafar Siddiqui
